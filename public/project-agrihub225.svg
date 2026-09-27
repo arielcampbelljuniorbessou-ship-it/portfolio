@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#040806"/>
+  <path d="M0 140h900M0 280h900M0 420h900M180 0v560M360 0v560M540 0v560M720 0v560" stroke="#b9ffd0" stroke-opacity=".07"/>
+  <rect x="92" y="74" width="716" height="412" rx="28" fill="#0b1510" stroke="#67ff9a" stroke-opacity=".22"/>
+  <rect x="136" y="124" width="198" height="296" rx="18" fill="#020604" stroke="#67ff9a" stroke-opacity=".18"/>
+  <rect x="370" y="124" width="350" height="132" rx="18" fill="#020604" stroke="#63e6ff" stroke-opacity=".2"/>
+  <rect x="370" y="286" width="160" height="134" rx="18" fill="#020604" stroke="#d9c27c" stroke-opacity=".24"/>
+  <rect x="560" y="286" width="160" height="134" rx="18" fill="#020604" stroke="#67ff9a" stroke-opacity=".2"/>
+  <path d="M180 358c64-92 80-92 132 0H180Z" fill="#67ff9a" fill-opacity=".18"/>
+  <path d="M181 356c28-54 48-84 70-84 22 0 40 30 61 84" fill="none" stroke="#67ff9a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M428 224v-54m48 54v-78m48 78v-36m48 36v-68m48 68v-100" stroke="#63e6ff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M424 368c32-24 50-50 50-72 35 20 52 45 50 74" fill="none" stroke="#d9c27c" stroke-width="9" stroke-linecap="round"/>
+  <path d="M618 384c0-46 26-80 60-98 5 48-14 84-60 98Z" fill="#67ff9a" fill-opacity=".2" stroke="#67ff9a" stroke-width="8"/>
+  <text x="136" y="458" fill="#e9fff0" font-family="Inter, Segoe UI, Arial" font-size="34" font-weight="900">AgriHub225</text>
+  <text x="136" y="496" fill="#93a69a" font-family="Inter, Segoe UI, Arial" font-size="22">Django + PostgreSQL + React + Power BI</text>
+</svg>

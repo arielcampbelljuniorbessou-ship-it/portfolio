@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ariel">
+  <rect width="64" height="64" rx="14" fill="#030706"/>
+  <path d="M12 48 30 12h7l15 36h-8l-3-8H26l-4 8h-10Zm17-15h9l-4-11-5 11Z" fill="#67ff9a"/>
+  <path d="M48 16h4v4h-4zm-6 0h4v4h-4zm-6 0h4v4h-4z" fill="#63e6ff"/>
+</svg>

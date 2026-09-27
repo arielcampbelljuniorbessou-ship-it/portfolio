@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#050908"/>
+  <path d="M0 96h900M0 192h900M0 288h900M0 384h900M0 480h900M128 0v560M256 0v560M384 0v560M512 0v560M640 0v560M768 0v560" stroke="#b9ffd0" stroke-opacity=".07"/>
+  <rect x="116" y="78" width="668" height="404" rx="26" fill="#0a1512" stroke="#67ff9a" stroke-opacity=".2"/>
+  <rect x="156" y="120" width="588" height="70" rx="16" fill="#67ff9a" fill-opacity=".12" stroke="#67ff9a" stroke-opacity=".25"/>
+  <circle cx="190" cy="155" r="9" fill="#67ff9a"/>
+  <circle cx="220" cy="155" r="9" fill="#d9c27c"/>
+  <circle cx="250" cy="155" r="9" fill="#63e6ff"/>
+  <rect x="156" y="224" width="280" height="184" rx="18" fill="#020604" stroke="#63e6ff" stroke-opacity=".2"/>
+  <path d="M204 300c0-34 26-62 62-62h44v58h-54c-13 0-23 10-23 22v16h-29v-34Z" fill="#67ff9a" fill-opacity=".22" stroke="#67ff9a" stroke-width="7"/>
+  <path d="M364 332c0 34-26 62-62 62h-44v-58h54c13 0 23-10 23-22v-16h29v34Z" fill="#63e6ff" fill-opacity=".2" stroke="#63e6ff" stroke-width="7"/>
+  <rect x="472" y="224" width="226" height="30" rx="10" fill="#e9fff0" fill-opacity=".16"/>
+  <rect x="472" y="276" width="176" height="24" rx="10" fill="#67ff9a" fill-opacity=".22"/>
+  <rect x="472" y="324" width="210" height="24" rx="10" fill="#e9fff0" fill-opacity=".11"/>
+  <rect x="472" y="372" width="144" height="24" rx="10" fill="#d9c27c" fill-opacity=".2"/>
+  <text x="156" y="454" fill="#e9fff0" font-family="Inter, Segoe UI, Arial" font-size="34" font-weight="900">PythonLearning</text>
+  <text x="156" y="492" fill="#93a69a" font-family="Inter, Segoe UI, Arial" font-size="22">Django + Firebase + Bootstrap</text>
+</svg>

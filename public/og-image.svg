@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#030706"/>
+      <stop offset=".56" stop-color="#091411"/>
+      <stop offset="1" stop-color="#101009"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0" x2="1">
+      <stop stop-color="#f2fff6"/>
+      <stop offset=".56" stop-color="#67ff9a"/>
+      <stop offset="1" stop-color="#63e6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M160 0v630M320 0v630M480 0v630M640 0v630M800 0v630M960 0v630" stroke="#b9ffd0" stroke-opacity=".07"/>
+  <rect x="82" y="78" width="1036" height="474" rx="28" fill="#07100e" fill-opacity=".78" stroke="#67ff9a" stroke-opacity=".22"/>
+  <text x="120" y="226" fill="url(#text)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="900">ARIEL</text>
+  <text x="120" y="304" fill="#e9fff0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">Portfolio - Developpeur &amp; Cybersecurite</text>
+  <text x="120" y="376" fill="#93a69a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">Projets, apprentissage, ambition et hacking ethique.</text>
+  <circle cx="930" cy="270" r="88" fill="#67ff9a" fill-opacity=".08" stroke="#67ff9a" stroke-opacity=".45"/>
+  <path d="M890 280h80m-70-26h100m-74 52h78" stroke="#67ff9a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M930 174v46m0 100v46m-96-96h46m100 0h46" stroke="#63e6ff" stroke-opacity=".75" stroke-width="6" stroke-linecap="round"/>
+</svg>
